@@ -1,5 +1,10 @@
 # Landing_game_web
 
+## Live Demo
+
+Check out the live demo of the website [here](https://selvabharathi0705.github.io/Landing_game_web/).
+
+
 ## Description
 
 This repository contains the source code for a gaming website landing page built using HTML and CSS. The website features sections for the home page, about, tournament details, team members, gears, a contact form, as well as login and payment pages. It includes a responsive navigation menu and social media links.
