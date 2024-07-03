@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-Check out the live demo of the website [here](https://selvabharathi0705.github.io/Landing_game_web/).
+Check out the live demo of the website [here](https://selvabharathi0705.github.io/Gaming-Hub-Landing-Page/).
 
 
 ## Description
